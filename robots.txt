@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://cloudways-referral-link.vercel.app/sitemap.xml
+Sitemap: https://cloudways-referral-link-get-25-free.vercel.app/sitemap.xml
